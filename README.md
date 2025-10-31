@@ -39,10 +39,10 @@
 
 ## 📫 Contato
 <p>
-  <a href="mailto:Gabrielluiz.al231@gmail">
+  <a href="mailto:Gabrielluiz.al231@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gabrielluiz.al231@gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Em_Breve-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gabriel-almeida-76270b28a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Almeida-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
